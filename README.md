@@ -2,4 +2,4 @@
 
 
 ### Contribuidor:
-- Álvaro Gonzalez - alvaro.gonzalez@opendeusto.es
+- Álvaro González - alvaro.gonzalez@opendeusto.es
